@@ -36,6 +36,8 @@ Refer to the following files in this repository to navigate your workflow:
 
 [2] "The ISIC Archive," International Skin Imaging Collaboration, 2026. [Online]. Available: https://www.isic-archive.com/. [Accessed: Apr. 27, 2026].
 
-[3] "PyTorch Documentation," PyTorch.org, 2026. [Online]. Available: https://pytorch.org/docs/stable/index.html. [Accessed: Apr. 27, 2026].
+[3] "Getting Started with PyTorch Image Models (timm)," Hugging Face, 2026. [Online]. Available: https://huggingface.co/docs/timm/quickstart. [Accessed: Apr. 27, 2026].
 
-[4] J. Streifer and M. S. Palmer, "The Case Study Method in Data Science Education," University of Virginia CTE, 2020. [Online]. Available: https://cte.virginia.edu/. [Accessed: Apr. 27, 2026].
+[4] "PyTorch Documentation," PyTorch.org, 2026. [Online]. Available: https://pytorch.org/docs/stable/index.html. [Accessed: Apr. 27, 2026].
+
+[5] J. Streifer and M. S. Palmer, "The Case Study Method in Data Science Education," University of Virginia CTE, 2020. [Online]. Available: https://cte.virginia.edu/. [Accessed: Apr. 27, 2026].
