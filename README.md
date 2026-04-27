@@ -32,12 +32,14 @@ Refer to the following files in this repository to navigate your workflow:
 8.  **Final Presentation**: Using your EDA findings, model results, statistical analysis, and visualizations, create a final presentation. Add this presentation (in PDF or slide format) to your repository to complete the case study.
 
 ## References
-[1] M. Tan and Q. V. Le, "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks," arXiv.org, 2019. [Online]. Available: https://arxiv.org/abs/1905.11946. [Accessed: Apr. 27, 2026].
+[1] "Spotting the Silent Threat: How Early Diagnosis Transforms Skin Cancer Outcomes," Medical Insights, 2025. [Online]. Available: https://drfaisalqidwai.com/spotting-the-silent-threat-how-early-diagnosis-transforms-skin-cancer-outcomes/. [Accessed: Apr. 27, 2026].
 
-[2] "The ISIC Archive," International Skin Imaging Collaboration, 2026. [Online]. Available: https://www.isic-archive.com/. [Accessed: Apr. 27, 2026].
+[2] M. Tan and Q. V. Le, "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks," arXiv.org, 2019. [Online]. Available: https://arxiv.org/abs/1905.11946. [Accessed: Apr. 27, 2026].
 
-[3] "Getting Started with PyTorch Image Models (timm)," Hugging Face, 2026. [Online]. Available: https://huggingface.co/docs/timm/quickstart. [Accessed: Apr. 27, 2026].
+[3] "The ISIC Archive," International Skin Imaging Collaboration, 2026. [Online]. Available: https://www.isic-archive.com/. [Accessed: Apr. 27, 2026].
 
-[4] "PyTorch Documentation," PyTorch.org, 2026. [Online]. Available: https://pytorch.org/docs/stable/index.html. [Accessed: Apr. 27, 2026].
+[4] "Getting Started with PyTorch Image Models (timm)," Hugging Face, 2026. [Online]. Available: https://huggingface.co/docs/timm/quickstart. [Accessed: Apr. 27, 2026].
 
-[5] J. Streifer and M. S. Palmer, "The Case Study Method in Data Science Education," University of Virginia CTE, 2020. [Online]. Available: https://cte.virginia.edu/. [Accessed: Apr. 27, 2026].
+[5] "PyTorch Documentation," PyTorch.org, 2026. [Online]. Available: https://pytorch.org/docs/stable/index.html. [Accessed: Apr. 27, 2026].
+
+[6] J. Streifer and M. S. Palmer, "The Case Study Method in Data Science Education," University of Virginia CTE, 2020. [Online]. Available: https://cte.virginia.edu/. [Accessed: Apr. 27, 2026].
