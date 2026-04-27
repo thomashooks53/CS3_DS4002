@@ -3,6 +3,8 @@ Use this repository as a guide for the creation of your own repository and prese
 
 ## Context of the Project
 
+## Necessary Software
+
 ## Documentation Map
 
 ## Step-by-step Instructions
