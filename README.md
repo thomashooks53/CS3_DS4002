@@ -1,2 +1,10 @@
 # Skin Lesion Image Analysis
-GitHub repository containing the required materials for the Case Study 3 assignment in DS4002
+Use this repository as a guide for the creation of your own repository and presentation.
+
+## Context of the Project
+
+## Documentation Map
+
+## Step-by-step Instructions
+
+## References
